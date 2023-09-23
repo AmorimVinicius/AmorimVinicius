@@ -5,6 +5,8 @@
 
 ![Amorim GitHub stats](https://github-readme-stats.vercel.app/api?username=AmorimVinicius&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimVinicius)](https://github.com/AmorimVinicius/github-readme-stats)
+
 ## Tecnologias
 
 <div style = "display: inline_block">
